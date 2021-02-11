@@ -22,6 +22,6 @@ Strengths: Online only - little cost to run
 Weaknesses: Widely used which can make customer service hard to execute successfully. 
 
 
-    * What is the prognosis for this company? Where do they expect to be in the future?
+    * #What is the prognosis for this company? Where do they expect to be in the future?#
 
 Shopify should only grow over the next decade as more people become empowered to set their own businesses up. 
