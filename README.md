@@ -14,7 +14,7 @@ Being cloud-based and offering a user-friendly platform, Shopify is easily able 
 
 They are considered a FinTech company as they are entirely online and utilise various technologies to create an attractive value proposition for users. 
 
-    * Why is this company exemplary in the FinTech space? What are their strengths and weaknesses?
+    * #Why is this company exemplary in the FinTech space? What are their strengths and weaknesses?#
 
 This company stands out in the FinTech space as they are a billion dollar company with employess over the globe which is disrupting the e-commerce industry with their innovative platform. 
 
