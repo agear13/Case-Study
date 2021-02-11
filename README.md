@@ -3,12 +3,12 @@
 Shopify is one of the world's biggest e-commerce hosts. Founded in Canada, Shopify allows business owners to easily create an e-commerce store offering integration services such as domain hosting and payment services for customer checkouts. Shopify was designed for business owners with little to no coding experience which makes it a compelling platform for business owners to incorporate into their business. 
 
 
-What do they do? Who are their competitors?
+#What do they do? Who are their competitors?#
 
 Shopify is a cloud-based service and additionally, manages all the technical and security managers of web providing business owners with peace of mind.
 
 
- How does this company use technology to their advantage? Why are they considered a FinTech company?
+ #How does this company use technology to their advantage? Why are they considered a FinTech company?#
 
 Being cloud-based and offering a user-friendly platform, Shopify is easily able to entice users to utilise its service in building their websites. Additionally, Shopify offers a marketplace of App that are designed for natural integration with the service provider's platform which further encourages users to remain with the service as they are offered endless options to design and optimise their website. 
 
